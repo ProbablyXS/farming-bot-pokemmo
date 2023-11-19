@@ -1,0 +1,85 @@
+﻿Public Class FMenu
+
+    'MOUVE FORM WITH MOUSE'
+    Dim drag As Boolean
+    Dim mousex As Integer
+    Dim mousey As Integer
+
+    Private Sub Panel1_MouseDown(sender As Object, e As MouseEventArgs) Handles Panel1.MouseDown, LabelTITLE.MouseDown
+
+        drag = True
+        mousex = System.Windows.Forms.Cursor.Position.X - Me.Left
+        mousey = System.Windows.Forms.Cursor.Position.Y - Me.Top
+
+    End Sub
+
+    Private Sub Panel1_MouseMove(sender As Object, e As MouseEventArgs) Handles Panel1.MouseMove, LabelTITLE.MouseMove
+
+        If drag Then
+
+            Me.Top = System.Windows.Forms.Cursor.Position.Y - mousey
+            Me.Left = System.Windows.Forms.Cursor.Position.X - mousex
+
+        End If
+
+    End Sub
+
+    Private Sub Panel1_MouseUp(sender As Object, e As MouseEventArgs) Handles Panel1.MouseUp, LabelTITLE.MouseUp
+
+        drag = False
+
+    End Sub
+    'MOUVE FORM WITH MOUSE'
+
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+        FCombatFarm.Show()
+        Me.Hide()
+
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+
+        FSafariFarm.Show()
+        Me.Hide()
+
+    End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+
+        FTrainerFarm.Show()
+        Me.Hide()
+
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+
+        FAbout.Show()
+        Me.Hide()
+
+    End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click, MyBase.FormClosing
+
+        Application.Exit()
+
+    End Sub
+
+    Private Sub FMenu_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        'COLOR ALL PANEL
+
+        Dim col As Color = Color.LightSkyBlue
+
+        Panel2.BackColor = col
+        FCalcXP.Panel3.BackColor = col
+        FAbout.Panel2.BackColor = col
+        FCombatFarm.Panel3.BackColor = col
+        FTrainerFarm.Panel2.BackColor = col
+        FSafariFarm.Panel2.BackColor = col
+        FOptions.BackColor = col
+
+
+    End Sub
+End Class

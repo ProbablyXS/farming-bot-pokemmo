@@ -1,0 +1,2 @@
+# FARMING-BOTPOKEMMO
+ A farming bot for POKEMMO

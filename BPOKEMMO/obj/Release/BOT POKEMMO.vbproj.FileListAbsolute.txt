@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\BOT-POKEMMO.exe.config
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\BOT-POKEMMO.exe
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\BOT-POKEMMO.pdb
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\BOT-POKEMMO.xml
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\WindowsInput.dll
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT POKEMMO.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FAbout.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FMenu.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FOptions.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FCombatFarm.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FCalcXP.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FSafariFarm.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FTrainerFarm.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.Resources.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FTESTMOUSE.resources
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT POKEMMO.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT POKEMMO.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT POKEMMO.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT-POKEMMO.exe
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT-POKEMMO.xml
+C:\Users\Administrator\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT-POKEMMO.pdb
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\BOT-POKEMMO.exe.config
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\BOT-POKEMMO.exe
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\BOT-POKEMMO.pdb
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\BOT-POKEMMO.xml
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\bin\Release\WindowsInput.dll
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT POKEMMO.vbprojAssemblyReference.cache
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FAbout.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FMenu.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FOptions.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FCombatFarm.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FCalcXP.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FSafariFarm.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FTrainerFarm.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.Resources.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOTFARM.FTESTMOUSE.resources
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT POKEMMO.vbproj.GenerateResource.cache
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT POKEMMO.vbproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT POKEMMO.vbproj.CopyComplete
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT-POKEMMO.exe
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT-POKEMMO.xml
+C:\Users\Julien\Desktop\FARMING-BOTPOKEMMO\BPOKEMMO\obj\Release\BOT-POKEMMO.pdb
